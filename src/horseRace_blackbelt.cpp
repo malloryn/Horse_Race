@@ -59,7 +59,7 @@ void moveHorses(int horsesPosition[]) {
     {
       horsesPosition[i] += 2;
     }
-	// Else dice is odd and the horse moves back 1 position
+    // Else dice is odd and the horse moves back 1 position
     else {
       horsesPosition[i] --;
     }
